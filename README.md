@@ -1,5 +1,7 @@
 # Homebrew Core
 
+> This is a fork of Homebrew created at the point when support for macOS Monterey (12) was removed.
+
 Core formulae for the Homebrew package manager.
 
  [Homebrew/discussions (forum)](https://github.com/orgs/Homebrew/discussions)
